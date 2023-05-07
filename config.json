@@ -1,0 +1,19 @@
+{
+  "prefix": "a!",
+  "BotName": "ModMail Bot",
+"token": "TOKEN-DE-TON-BOT",
+
+  "ServerID": "VOTRE-ID-DE-SERVEUR",
+  "ServerName": "NOM-DE-VOTRE-SERVEUR",
+  "ModeratorRole": "nom du ROLE des admins ou du staff", 
+  "ModMailCategoryName": "MODMAIL",
+    
+  "EmbedColor": "#2f3136",
+  "CloseEmbedColor": "RED",
+  "OpenEmbedColor": "GREEN",
+  "EmbedFooter": "VOTRE-FOOTER-D'EMBED-DE-BOT",
+    
+  "StatusText": "VOTRE-TEXTE-DE-STATUT-CUSTOM-ICI",
+  "StatusType": "STREAMING",
+  "StatusURL": "https://www.twitch.tv/facebook"
+}
