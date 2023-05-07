@@ -11,7 +11,7 @@
 - [🎉・Configuration](#setup)
 - [⚙・Paramètres](#config)
 ## <a id="deploys"></a>☄ » Déploiements
-[Déployer avec REPLIT](https://replit.com/github.com/CLARC237/Lgd-Modmail)
+[Déployer avec REPLIT](https://replit.com/github/CLARC237/Lgd-Modmail)
 
 ## <a id="features"></a>🛠 » Fonctionnalités
 
@@ -26,7 +26,7 @@
 
 # <a id="config"></a> » Paramètres
 
-Si vous voulez modifier la configuration, ouvrez [config.json](9UfRs) et localisez-la en haut. Vous pouvez configurer les éléments suivants:
+Si vous voulez modifier la configuration, ouvrez [config.json] (https://discord.gg/K5pxTKXCmC) et localisez-la en haut. Vous pouvez configurer les éléments suivants:
 
 ```js
 {
@@ -48,7 +48,6 @@ Si vous voulez modifier la configuration, ouvrez [config.json](9UfRs) et localis
   "StatusType": "STREAMING",
   "StatusURL": "https://www.twitch.tv/facebook"
 }
-Footer
 
 ```
 
