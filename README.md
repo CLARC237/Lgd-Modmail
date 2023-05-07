@@ -7,7 +7,7 @@
 
 - [☄・Déploiements](#deploys)
 - [🔰・Fonctionnalités](#features)
-- [🌌・Discord]https://discord.gg/K5pxTKXCmC)
+- [🌌・Discord](https://discord.gg/K5pxTKXCmC)
 - [🎉・Configuration](#setup)
 - [⚙・Paramètres](#config)
 ## <a id="deploys"></a>☄ » Déploiements
@@ -26,7 +26,7 @@
 
 # <a id="config"></a> » Paramètres
 
-Si vous voulez modifier la configuration, ouvrez [config.json](https://discord.gg/zM6ZN9UfRs) et localisez-la en haut. Vous pouvez configurer les éléments suivants:
+Si vous voulez modifier la configuration, ouvrez [config.json](https://discord.gg/K5pxTKXCmC) et localisez-la en haut. Vous pouvez configurer les éléments suivants:
 
 ```js
 {
