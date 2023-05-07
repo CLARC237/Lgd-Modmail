@@ -11,7 +11,7 @@
 - [🎉・Configuration](#setup)
 - [⚙・Paramètres](#config)
 ## <a id="deploys"></a>☄ » Déploiements
-[Déployer avec REPLIT](https://replit.com/github/Nekros-dsc/backup-bot)
+[Déployer avec REPLIT](https://replit.com/github.com/CLARC237/Lgd-Modmail)
 
 ## <a id="features"></a>🛠 » Fonctionnalités
 
@@ -24,15 +24,32 @@
 1. Installer [Nodejs](https://nodejs.org/)
 2. Ouvrir [config.json](https://discord.gg/K5pxTKXCmC) avec le Bloc-notes ou un autre éditeur
 
-# <a id="config"></a>⚙ » Paramètres
+# <a id="config"></a> » Paramètres
 
 Si vous voulez modifier la configuration, ouvrez [config.json](9UfRs) et localisez-la en haut. Vous pouvez configurer les éléments suivants:
 
 ```js
-module.exports = {
-    token: "put-token-here",
-    prefix: "!"
+{
+  "prefix": "a!",
+  "BotName": "ModMail Bot",
+"token": "TOKEN-DE-TON-BOT",
+
+  "ServerID": "VOTRE-ID-DE-SERVEUR",
+  "ServerName": "NOM-DE-VOTRE-SERVEUR",
+  "ModeratorRole": "nom du ROLE des admins ou du staff", 
+  "ModMailCategoryName": "MODMAIL",
+    
+  "EmbedColor": "#2f3136",
+  "CloseEmbedColor": "RED",
+  "OpenEmbedColor": "GREEN",
+  "EmbedFooter": "VOTRE-FOOTER-D'EMBED-DE-BOT",
+    
+  "StatusText": "VOTRE-TEXTE-DE-STATUT-CUSTOM-ICI",
+  "StatusType": "STREAMING",
+  "StatusURL": "https://www.twitch.tv/facebook"
 }
+Footer
+
 ```
 
 ---
