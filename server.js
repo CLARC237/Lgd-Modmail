@@ -4,7 +4,7 @@ const express = require('express');
 const server = express();
  
 server.all('/', (req, res) => {
-  res.send(`<title>ModMail.js</title><b><size=50>ModMail.js - [V1.2.1] <i>by T.F.A#7524</i></size></b><br><br><i><color=green>Server.js is ready!</color> Your bot is going to be 24/7 if you host it on uptimerobot.</i><br><br>Click on the button below to join T.F.A official discord server!<br><a type="button" href="https://discord.gg/7zrFC2NPrd"><button>Join for support</button></a><footer><br><br>Warning:<br><b>Do not remove the credits or the developer name on this homepage!! You can change the developer's name (T.F.A) in index.js or other files, except this homepage!</b></footer>`)
+  res.send(`<title>ModMail.js</title><b><size=50>ModMail.js - [V1.2.1] <i>by</i></size></b><br><br><i><color=green>Server.js is ready!</color> Your bot is going to be 24/7 if you host it on uptimerobot.</i><br><br>Click on the button below to join T.F.A official discord server!<br><a type="button" href="https://discord.gg/K5pxTKXCmC"><button>Join for support</button></a><footer><br><br>Warning:<br><b>Do not remove the credits or the developer name on this homepage!! You can change the developer's name (T.F.A) in index.js or other files, except this homepage!</b></footer>`)
 })
  
 function keepAlive() {
